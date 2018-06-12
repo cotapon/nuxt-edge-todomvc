@@ -1,4 +1,4 @@
-# chomolungma-web
+# nuxt-edge-todomvc
 
 > Nuxt.js TypeScript project
 
